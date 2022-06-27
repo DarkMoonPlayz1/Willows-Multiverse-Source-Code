@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				59,
+				-7
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Willow Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				-180
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Willow Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				-8
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Willow Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-17
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Willow Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Willow Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Willow Idle"
+		},
+		{
+			"offsets": [
+				-22,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Willow Left"
+		},
+		{
+			"offsets": [
+				27,
+				-17
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Willow Right"
+		},
+		{
+			"offsets": [
+				-23,
+				12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Willow Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-3
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Willow Shoot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Willow_Mad",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "willow-pissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		0,
+		88
+	],
+	"camera_position": [
+		-120,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

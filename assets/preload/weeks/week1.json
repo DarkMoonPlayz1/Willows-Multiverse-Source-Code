@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Wretched Wolf", "willow", [146, 113, 253]],
+		["Skeptical", "willow", [146, 113, 253]],
+		["Assassination", "willow-pissed", [146, 113, 253]],
+		["Final Showdown", "willow-pissed", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "willowbg",
+
+	"storyName": "Willow",
+	"weekBefore": "Tutorial",
+	"weekName": "The Wolf",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

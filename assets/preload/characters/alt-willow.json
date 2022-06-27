@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-244
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Alt Willow Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-250
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Alt Willow Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-237
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Alt Willow Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				-250
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Alt Willow Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-72,
+				-237
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Alt Willow Left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				-217
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Alt Willow RIght",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-81,
+				-244
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Alt Willow Idle"
+		},
+		{
+			"offsets": [
+				-133,
+				-237
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Alt Willow RIght"
+		},
+		{
+			"offsets": [
+				-93,
+				-237
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Alt Willow Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AltWillow",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "willow",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		0,
+		88
+	],
+	"camera_position": [
+		-170,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

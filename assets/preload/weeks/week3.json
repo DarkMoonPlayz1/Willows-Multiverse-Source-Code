@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Thanatophobia", "willow", [146, 113, 253]],
+                ["Kaboom", "willow-pissed", [146, 113, 253]],
+		["Kapow", "monstrosity-willow", [146, 113, 253]],
+                ["Funtime", "sillymood", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "willowbg",
+
+	"storyName": "Willow",
+	"weekBefore": "Tutorial",
+	"weekName": "Freeplay Songs Only",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

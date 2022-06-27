@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Tutorial Remix", "gf", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "willowbg",
+
+	"storyName": "Tutorial Remix",
+	"weekBefore": "Tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,685 @@
+﻿{"frames": [
+
+{
+	"filename": "SENPAI DOWN NOTE0000",
+	"frame": {"x":0,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0001",
+	"frame": {"x":0,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0002",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0003",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0004",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0005",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0006",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0007",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0008",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0009",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0010",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0011",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0012",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI DOWN NOTE0013",
+	"frame": {"x":124,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0000",
+	"frame": {"x":248,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0001",
+	"frame": {"x":248,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0002",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0003",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0004",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0005",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0006",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0007",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0008",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0009",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0010",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0011",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0012",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI LEFT NOTE0013",
+	"frame": {"x":372,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0000",
+	"frame": {"x":496,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0001",
+	"frame": {"x":496,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0002",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0003",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0004",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0005",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0006",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0007",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0008",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0009",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0010",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0011",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0012",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI RIGHT NOTE0013",
+	"frame": {"x":620,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0000",
+	"frame": {"x":744,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0001",
+	"frame": {"x":744,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0002",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0003",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0004",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0005",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0006",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0007",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0008",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0009",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0010",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0011",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0012",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "SENPAI UP NOTE0013",
+	"frame": {"x":868,"y":0,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0000",
+	"frame": {"x":0,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0001",
+	"frame": {"x":0,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0002",
+	"frame": {"x":124,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0003",
+	"frame": {"x":124,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0004",
+	"frame": {"x":248,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0005",
+	"frame": {"x":248,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0006",
+	"frame": {"x":372,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0007",
+	"frame": {"x":372,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0008",
+	"frame": {"x":496,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0009",
+	"frame": {"x":496,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0010",
+	"frame": {"x":620,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0011",
+	"frame": {"x":620,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0012",
+	"frame": {"x":744,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0013",
+	"frame": {"x":868,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0014",
+	"frame": {"x":0,"y":326,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0015",
+	"frame": {"x":124,"y":326,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0016",
+	"frame": {"x":248,"y":326,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0017",
+	"frame": {"x":372,"y":326,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0018",
+	"frame": {"x":496,"y":326,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0019",
+	"frame": {"x":620,"y":326,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0020",
+	"frame": {"x":744,"y":326,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0021",
+	"frame": {"x":868,"y":326,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0022",
+	"frame": {"x":0,"y":489,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0023",
+	"frame": {"x":620,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0024",
+	"frame": {"x":620,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0025",
+	"frame": {"x":744,"y":163,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0026",
+	"frame": {"x":124,"y":489,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}
+,{
+	"filename": "Senpai Idle0027",
+	"frame": {"x":248,"y":489,"w":124,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":163},
+	"sourceSize": {"w":124,"h":163}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.3.179",
+	"Target": "Edge Animate",
+	"Target Version": "4.0",
+	"image": "Senpai_Assets.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
